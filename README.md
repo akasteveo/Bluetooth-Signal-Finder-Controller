@@ -137,4 +137,6 @@ class BluetoothSignalFinderAndController:
 
 # Run the application
 app = BluetoothSignalFinderAndController()
-app.run()
+
+
+
